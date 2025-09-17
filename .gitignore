@@ -1,0 +1,56 @@
+# -----------------
+# IDEs and Editors
+# -----------------
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, PhpStorm, WebStorm, Rider, etc.)
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Android Studio (inherits IntelliJ)
+.gradle/
+local.properties
+.cxx/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.xcodeproj/
+DerivedData/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.swp
+*.swo
+*.un~
+Session.vim
+
+# General OS files
+.DS_Store
+Thumbs.db
